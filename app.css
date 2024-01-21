@@ -11,6 +11,10 @@ body {
     color: rgb(33, 33, 33);
 }
 
+#main-navbar .nav-link:hover {
+    color: #ea1c2c;
+}
+
 #main-navbar .navbar-brand {
     color: #ea1c2c;
     font-size: 1.5rem;
